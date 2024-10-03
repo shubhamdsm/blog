@@ -13,7 +13,7 @@ Seeing the tweet it motivated me to do the experiment on myself.This blog will c
 | Day 1 | introduction |
 | Day 2 | deployment issue that I encountered and how I solved it |
 | Day 3 | array methods use in reactjs |
-| Day 4 |  |
+| Day 4 | how my day went |
 | Day 5 |  |
 | Day 6 |  |
 | Day 7 |  |
